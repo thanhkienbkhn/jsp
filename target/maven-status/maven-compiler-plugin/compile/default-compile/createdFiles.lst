@@ -1,0 +1,4 @@
+com\thanhkien\controller\web\HomeController.class
+com\thanhkien\controller\admin\HomeController.class
+com\thanhkien\model\Solution.class
+com\thanhkien\model\UserModel.class
