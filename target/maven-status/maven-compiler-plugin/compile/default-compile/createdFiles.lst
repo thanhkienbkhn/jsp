@@ -1,4 +1,12 @@
 com\thanhkien\controller\web\HomeController.class
-com\thanhkien\controller\admin\HomeController.class
+com\thanhkien\service\INewService.class
+com\thanhkien\controller\admin\api\NewAPI.class
+com\thanhkien\dao\impl\NewDAO.class
+com\thanhkien\service\impl\NewService.class
+com\thanhkien\utils\database\HibernateUtil.class
+com\thanhkien\dao\INewDAO.class
+com\thanhkien\utils\database\HttpUtil.class
 com\thanhkien\model\Solution.class
+com\thanhkien\controller\admin\HomeController.class
 com\thanhkien\model\UserModel.class
+com\thanhkien\model\Role.class
